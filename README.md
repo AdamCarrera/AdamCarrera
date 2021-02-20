@@ -1,6 +1,7 @@
-### Hi there 👋 nice to meet you!
-- 🔭 I’m currently working on, Python Motion Control
+# I'm Adam, nice to meet you! :smiley: 
+- 🔭 I’m currently working on: Python Motion Control
 - 🌱 I’m currently learning: Python, C++
+- 🤔 I’m looking for help with: Finding the next steps of my programming journey 
 - 📫 How to reach me: adam.carrera@utdallas.edu
 
 <!--
