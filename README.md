@@ -1,6 +1,6 @@
 # I'm Adam, nice to meet you! :smiley: 
-- 🔭 I’m currently working on: Python Motion Control
-- 🌱 I’m currently learning: Python, C++
+- 🔭 I’m currently working on: Web Development
+- 🌱 I’m currently learning: JavaScript, HTML, CSS
 - 🤔 I’m looking for help with: 
 - 📫 How to reach me: adam.carrera@utdallas.edu
 
